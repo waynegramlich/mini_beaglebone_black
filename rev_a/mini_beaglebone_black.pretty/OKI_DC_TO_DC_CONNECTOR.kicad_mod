@@ -1,7 +1,7 @@
-(module OKI_DC_TO_DC_CONNECTOR (layer F.Cu) (tedit 53B9F947)
+(module OKI_DC_TO_DC_CONNECTOR (layer F.Cu) (tedit 53C0BA77)
   (descr "1 pin")
   (tags "CONN DEV")
-  (fp_text reference N3 (at 0 -2.286) (layer F.SilkS)
+  (fp_text reference N3 (at 0.127 -3.302) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.2032)))
   )
   (fp_text value OKI_DC_TO_DC_CONNECTOR (at 0 2.54) (layer F.SilkS) hide
