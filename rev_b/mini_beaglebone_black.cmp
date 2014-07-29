@@ -1,129 +1,129 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Sun 06 Jul 2014 06:38:55 PM PDT
+Cmp-Mod V01 Created by Cvpcb (2014-jan-25)-product   date = Tue 29 Jul 2014 10:33:21 AM PDT
 
 BeginCmp
 TimeStamp = /53B9A91C;
 Reference = C1;
 ValeurCmp = .1uF;
-IdModule  = Mini_BeagleBone_Black_Rev_A:Capacitor3MMDiscRM2.5;
+IdModule  = Mini_BeagleBone_Black_Rev_B:Capacitor3MMDiscRM2.5;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B9A840;
 Reference = C2;
 ValeurCmp = .1uF;
-IdModule  = Mini_BeagleBone_Black_Rev_A:Capacitor3MMDiscRM2.5;
+IdModule  = Mini_BeagleBone_Black_Rev_B:Capacitor3MMDiscRM2.5;
 EndCmp
 
 BeginCmp
 TimeStamp = /53AA4798;
 Reference = G1;
 ValeurCmp = OSHW_LOGO;
-IdModule  = Mini_BeagleBone_Black_Rev_A:OSHW_LOGO_200mil;
+IdModule  = Mini_BeagleBone_Black_Rev_B:OSHW_LOGO_200mil;
 EndCmp
 
 BeginCmp
 TimeStamp = /53AA33AA;
 Reference = H1;
 ValeurCmp = 3MM_HOLE;
-IdModule  = Mini_BeagleBone_Black_Rev_A:MountingHole_3mm;
+IdModule  = Mini_BeagleBone_Black_Rev_B:MountingHole_3mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /53A9D11F;
 Reference = N1;
 ValeurCmp = MS_DATA_HEADER;
-IdModule  = Mini_BeagleBone_Black_Rev_A:Pin_Header_Straight_2x08;
+IdModule  = Mini_BeagleBone_Black_Rev_B:Pin_Header_Straight_2x08;
 EndCmp
 
 BeginCmp
 TimeStamp = /53A9D139;
 Reference = N2;
 ValeurCmp = MS_PWR_HEADER;
-IdModule  = Mini_BeagleBone_Black_Rev_A:Pin_Header_Straight_2x08;
+IdModule  = Mini_BeagleBone_Black_Rev_B:Pin_Header_Straight_2x08;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B86AF3;
 Reference = N3;
 ValeurCmp = OKI-78SR-5/1.5-W36-C;
-IdModule  = Mini_BeagleBone_Black_Rev_A:OKI_DC_TO_DC_CONNECTOR;
+IdModule  = Mini_BeagleBone_Black_Rev_B:OKI_DC_TO_DC_CONNECTOR;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B9E73A;
 Reference = N4;
 ValeurCmp = BBB_P9_HEADER;
-IdModule  = Mini_BeagleBone_Black_Rev_A:Pin_Header_Straight_2x16;
+IdModule  = Mini_BeagleBone_Black_Rev_B:Pin_Header_Straight_2x16;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B96745;
 Reference = Q1;
 ValeurCmp = PN2222;
-IdModule  = Mini_BeagleBone_Black_Rev_A:TO92_123;
+IdModule  = Mini_BeagleBone_Black_Rev_B:TO92_123;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B96E2E;
 Reference = R1;
 ValeurCmp = 2K2 1%;
-IdModule  = Mini_BeagleBone_Black_Rev_A:Resistor_Horizontal_RM10mm;
+IdModule  = Mini_BeagleBone_Black_Rev_B:Resistor_Horizontal_RM10mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B96E94;
 Reference = R2;
 ValeurCmp = 3K3 1%;
-IdModule  = Mini_BeagleBone_Black_Rev_A:Resistor_Horizontal_RM10mm;
+IdModule  = Mini_BeagleBone_Black_Rev_B:Resistor_Horizontal_RM10mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B9742E;
 Reference = R3;
 ValeurCmp = 2K2 1%;
-IdModule  = Mini_BeagleBone_Black_Rev_A:Resistor_Horizontal_RM10mm;
+IdModule  = Mini_BeagleBone_Black_Rev_B:Resistor_Horizontal_RM10mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B97478;
 Reference = R4;
 ValeurCmp = 3K3 1%;
-IdModule  = Mini_BeagleBone_Black_Rev_A:Resistor_Horizontal_RM10mm;
+IdModule  = Mini_BeagleBone_Black_Rev_B:Resistor_Horizontal_RM10mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B96ADC;
 Reference = R5;
 ValeurCmp = 470;
-IdModule  = Mini_BeagleBone_Black_Rev_A:Resistor_Horizontal_RM10mm;
+IdModule  = Mini_BeagleBone_Black_Rev_B:Resistor_Horizontal_RM10mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B96B11;
 Reference = R6;
 ValeurCmp = 10K;
-IdModule  = Mini_BeagleBone_Black_Rev_A:Resistor_Horizontal_RM10mm;
+IdModule  = Mini_BeagleBone_Black_Rev_B:Resistor_Horizontal_RM10mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B999D3;
 Reference = R7;
 ValeurCmp = 10K;
-IdModule  = Mini_BeagleBone_Black_Rev_A:Resistor_Horizontal_RM10mm;
+IdModule  = Mini_BeagleBone_Black_Rev_B:Resistor_Horizontal_RM10mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B97733;
 Reference = U1;
 ValeurCmp = 74X125;
-IdModule  = Mini_BeagleBone_Black_Rev_A:DIP-14__300;
+IdModule  = Mini_BeagleBone_Black_Rev_B:DIP-14__300;
 EndCmp
 
 BeginCmp
 TimeStamp = /53B96C30;
 Reference = U2;
 ValeurCmp = 74HCT08;
-IdModule  = Mini_BeagleBone_Black_Rev_A:DIP-14__300;
+IdModule  = Mini_BeagleBone_Black_Rev_B:DIP-14__300;
 EndCmp
 
 EndListe
